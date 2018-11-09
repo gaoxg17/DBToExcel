@@ -1,0 +1,13 @@
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\DBToExcel.exe.config
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\DBToExcel.exe
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\DBToExcel.pdb
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\log4net.dll
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\System.ValueTuple.dll
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\log4net.xml
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\bin\Debug\System.ValueTuple.xml
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\obj\Debug\DBToExcel.csprojAssemblyReference.cache
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\obj\Debug\DBToExcel.csproj.CoreCompileInputs.cache
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\obj\Debug\DBToExcel.csproj.CopyComplete
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\obj\Debug\DBToExcel.exe
+C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\obj\Debug\DBToExcel.pdb

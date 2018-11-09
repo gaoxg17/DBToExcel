@@ -1,0 +1,24 @@
+4022 2018-11-09 09:53:58,538 [1] INFO  DBToExcel.Program [(null)] - 开始执行
+
+4832 2018-11-09 09:53:59,348 [1] ERROR DBToExcel.Lib.csDBToExcel [(null)] - 读取配置文件DBToExcel.Lib.csDBToExcel.config出现异常！
+
+4832 2018-11-09 09:53:59,348 [1] ERROR DBToExcel.Lib.csDBToExcel [(null)] - 异常描述：	XML 文档(2, 2)中有错误。
+
+4832 2018-11-09 09:53:59,348 [1] ERROR DBToExcel.Lib.csDBToExcel [(null)] - 引发异常的方法：	System.Object Deserialize(System.Xml.XmlReader, System.String, System.Xml.Serialization.XmlDeserializationEvents)
+
+4842 2018-11-09 09:53:59,358 [1] ERROR DBToExcel.Lib.csDBToExcel [(null)] - 异常堆栈：	   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   在 DBToExcel.Lib.csDBToExcel.fromXmlFile(String xmlFileName) 位置 C:\Users\NXW\Desktop\XF\DBToExcel\DBToExcel\Lib\csDBToExcel.cs:行号 106
+
+36694 2018-11-09 09:55:47,461 [1] INFO  DBToExcel.Program [(null)] - 开始执行
+
+68368 2018-11-09 09:56:19,135 [1] INFO  DBToExcel.Program [(null)] - 本次执行成功
+
+
+3989 2018-11-09 10:03:29,439 [1] INFO  DBToExcel.Program [(null)] - 开始执行
+
+3479 2018-11-09 10:04:39,709 [1] INFO  DBToExcel.Program [(null)] - 开始执行
+
+13240 2018-11-09 10:04:49,470 [1] INFO  DBToExcel.Program [(null)] - 本次执行成功
+
+
